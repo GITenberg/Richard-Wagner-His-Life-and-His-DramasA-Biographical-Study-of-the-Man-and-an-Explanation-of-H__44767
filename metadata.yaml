@@ -1,0 +1,31 @@
+_repo: Richard-Wagner-His-Life-and-His-DramasA-Biographical-Study-of-the-Man-and-an-Explanation-of-H__44767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44767-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henderson, W. J. (William James)
+    alias: Henderson, William James
+    birthdate: 1855
+    deathdate: 1937
+    gutenberg_agent_id: '8988'
+    url: http://www.gutenberg.org/2009/agents/8988
+    wikipedia: http://en.wikipedia.org/wiki/William_James_Henderson
+description: ''
+gutenberg_issued: '2014-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wagner, Richard, 1813-1883. Operas'
+- !lcsh 'Wagner, Richard, 1813-1883'
+- !lcc 'ML'
+title: 'Richard Wagner His Life and His Dramas
+
+  A  Biographical Study of the Man and an Explanation of His Work'
+url: http://www.gutenberg.org/ebooks/44767
